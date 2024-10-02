@@ -1,19 +1,14 @@
 
-# [Fundamentos Azure](https://www.credly.com/badges/ee5ec242-0f33-4818-9bf4-e8713a445b7c?source=linked_in_profile).
-Resumo do lab
+# Resumo do lab Fundamentos Azure
 
-# De forma sintética:
 ## Introdução ao Azure Essentials com a Microsoft
  1. Informações gerais sober o Azure;
  2. Criando a conta;
+
 ## Introdução a computação em nuvem
  1. Tipos de computações em nuvem
  2. Exemplos e segurança na nuvem
-## Versionamento de código com Git e GitHub
- 1. Como instalar e configurar o Git e seu uso com no GitHub
-## Criando um portfólio vencedor
-## Desafio: Contribuindo com um projeto opensource no GitHub
- 1. Fazendo um fork e adicionando um arquivo .md
+
 ## Azure AI
 1. Informações sobre a IA, passos iniciais e usos
 
@@ -87,7 +82,8 @@ Resumo do lab
    4. AzCopy (utilitário linha de comando - unidirecional)
    5. Gerenciador de armazenamento do Azure: (utilitário AzCopy modo gráfico - bidirecional)
    6. Sincronização de arquivos
-## Lab: Entendendo aobre segurança e identidade
+
+## Lab: Entendendo sobre segurança e identidade
 1. Identidade, acesso e segurança
    1. Serviços de diretório
    2. Métodos de autenticação
@@ -180,6 +176,7 @@ Resumo do lab
 8. Alertas do Azure Monitor
 9. Application insights
     
+Resultado: [Fundamentos Azure](https://www.credly.com/badges/ee5ec242-0f33-4818-9bf4-e8713a445b7c?source=linked_in_profile)
 
 ## Etiquetas
 
